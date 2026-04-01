@@ -62,3 +62,4 @@ plot(w/pi,abs(h),'blue');
 ## OUTPUT:
 
 ## RESULT:
+![WhatsApp Image 2026-04-01 at 6 06 47 PM](https://github.com/user-attachments/assets/cf5e2d9e-b6d8-467a-95d5-3052b2876b7d)
