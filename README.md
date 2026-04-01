@@ -60,6 +60,7 @@ h=freqz(hn,1,w);
 plot(w/pi,abs(h),'blue');
 
 ## OUTPUT:
+<img width="1918" height="1017" alt="Screenshot 2026-03-26 233317" src="https://github.com/user-attachments/assets/425dbd6a-0d85-420a-9099-b1cedeb50df2" />
 
 ## RESULT:
 ![WhatsApp Image 2026-04-01 at 6 06 47 PM](https://github.com/user-attachments/assets/cf5e2d9e-b6d8-467a-95d5-3052b2876b7d)
